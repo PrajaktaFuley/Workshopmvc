@@ -1,0 +1,8 @@
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.AssemblyInfoInputs.cache
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.AssemblyInfo.cs
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.csproj.CoreCompileInputs.cache
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.MvcApplicationPartsAssemblyInfo.cs
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.MvcApplicationPartsAssemblyInfo.cache
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.RazorAssemblyInfo.cache
+D:\MVCDEMOS\MVCWorkshop\obj\Debug\net5.0\MVCWorkshop.RazorAssemblyInfo.cs
